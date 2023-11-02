@@ -1,5 +1,5 @@
 ![banner](assets/banner.png)
-# Webscraping (1st Internship Project)
+# Webscraping
 
 ## Overview
 Program based by project made at Bose Internship. 
