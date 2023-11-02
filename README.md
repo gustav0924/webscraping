@@ -1,5 +1,5 @@
 ![banner](assets/banner.png)
-# Web scraping
+# Parts Price Web Scraping
 
 ## Overview
 Program based by project made at Bose Internship. 
