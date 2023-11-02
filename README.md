@@ -1,5 +1,5 @@
 ![banner](assets/banner.png)
-# Webscraping
+# Web scraping
 
 ## Overview
 Program based by project made at Bose Internship. 
