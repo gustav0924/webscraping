@@ -16,7 +16,8 @@ This project emerged as a pivotal initiative during an internship at Bose, dedic
 |-------------------	        |------------------	|------------- |--------------|---------------- |------------ |-------------- |------------| ------------------------------ |
 | 30J2R0E      |      Ohmite Mfg Co         |    1        |     Quest Components      |      oemstrade         |    6932656541  |  John K.          |      2500      |      0.56    |
 
+Program result becomes a csv file, example given is an xlsx file.
 
 ![screenshot](assets/screenshot.png)
 
-### Program result becomes a CSV File
+
