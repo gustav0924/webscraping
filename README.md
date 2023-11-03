@@ -12,8 +12,8 @@ This project emerged as a pivotal initiative during an internship at Bose, dedic
 
 ## Quick glance at the results
 
-| Part #     	                | Manufacturer 	    | Stock        | Price        | Distributor     | Website     |    BPN        | Buyer      |
-|-------------------	        |------------------	|------------- |--------------|---------------- |------------ |-------------- |------------|
+| Part #     	                | Manufacturer 	    | Stock        | Distributor         | Website      |  Material  |    Buyer        | Lot Qty      |     Price       |
+|-------------------	        |------------------	|------------- |--------------|---------------- |------------ |-------------- |------------| ------------------------------ |
 
 
 ![screenshot](assets/screenshot.png)
