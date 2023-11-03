@@ -11,3 +11,8 @@ The program is a Python-based solution that automates the extraction of data fro
 - Windows
 - Edge Browser
 - Microsoft Edge WebDriver
+
+## Quick glance at the results
+
+| Part #     	                | Manufacturer 	    | Stock        | Price        | Distributor     | Website     |    BPN        | Buyer      |
+|-------------------	        |------------------	|------------- |--------------|---------------- |------------ |-------------- |------------|
