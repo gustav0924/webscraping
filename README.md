@@ -1,10 +1,8 @@
 ![banner](assets/banner.png)
-# Parts Price Web Scraping
+# Automated Pricing Data Retrieval for Parts
 
 ## Overview
-Program based by project made at Bose Internship. 
-Main project was a web scrapping by an ETL process through an internal file used to search no. parts required making price comparison between internal data and from web pages. 
-The program is a Python-based solution that automates the extraction of data from two websites to pull data from xlsx files to search on Oemstrade and Fidndchips
+This project emerged as a pivotal initiative during an internship at Bose, dedicated to advancing supply chain optimization through an automated, Python-based solution. The primary goal was to simplify the process of comparing part prices from internal data with those found on external websites. The project harnessed an Extract, Transform, Load (ETL) process to automate web scraping, using an internal file as a reference. Additionally, the project incorporated features to communicate the results via SMTP using Python modules.
 
 ## Tech Stack
 - Python
