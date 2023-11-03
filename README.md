@@ -14,6 +14,7 @@ This project emerged as a pivotal initiative during an internship at Bose, dedic
 
 | Part #     	                | Manufacturer 	    | Stock        | Distributor         | Website      |  Material  |    Buyer        | Lot Qty      |     Price       |
 |-------------------	        |------------------	|------------- |--------------|---------------- |------------ |-------------- |------------| ------------------------------ |
+| 30J2R0E      |      Ohmite Mfg Co         |    1        |     Quest Components      |      oemstrade         |    6932656541  |  John K.          |      2500      |      0.56    |
 
 
 ![screenshot](assets/screenshot.png)
