@@ -14,3 +14,6 @@ This project emerged as a pivotal initiative during an internship at Bose, dedic
 
 | Part #     	                | Manufacturer 	    | Stock        | Price        | Distributor     | Website     |    BPN        | Buyer      |
 |-------------------	        |------------------	|------------- |--------------|---------------- |------------ |-------------- |------------|
+
+
+![screenshot](assets/screenshot.png)
