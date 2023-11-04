@@ -22,7 +22,7 @@ Program result becomes a csv file, example given is an xlsx file.
 ![screenshot](assets/screenshot.png)
 
 ## Additional Files
-Manual sample with STMP module created additionally created to communicate results and a how-to fill the file run the programm
+Manual sample with STMP module added for in-depth code review
 
 ## Repository Structure
 
