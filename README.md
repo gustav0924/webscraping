@@ -38,8 +38,8 @@ Manual sample with STMP module created additionally created to communicate resul
 │
 |
 ├── datasets
-│   ├── application_record.csv                    <- the dataset with profile information (without the target variable).
-│   ├── credit_records.csv                        <- the dataset with account credit records (used to derive the target variable).
+│   ├── 09252023_webdata.xlsx                    <- the dataset created as an xlsx file
+│   ├── ListPart.xlsx                            <- the dataset used to extract data and search each material part
 │
 │
 ├── LICENSE                                       <- license file.
