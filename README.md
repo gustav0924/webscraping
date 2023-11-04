@@ -27,38 +27,24 @@ Manual sample with STMP module created additionally created to communicate resul
 ## Repository Structure
 
 ```
-
 ├── assets
-│   ├── confusion_matrix.png                      <- confusion matrix image used in the README.
-│   ├── gif_streamlit.gif                         <- gif file used in the README.
-│   ├── heatmap.png                               <- heatmap image used in the README.
-│   ├── Credit_card_approval_banner.png           <- banner image used in the README.
-│   ├── environment.yml                           <- list of all the dependencies with their versions(for conda environment).
-│   ├── roc.png                                   <- ROC image used in the README.
+│   ├──  Manual.ipynb                              <- python notebook as manual sample 
+│   ├──  stmp.py                                   <- stmp python module 
+|
+|
+├── assets
+│   ├──  banner.png                                <- banner file for README
+│   ├──  screenshot.png                            <- screenshot sample of program running
 │
+|
 ├── datasets
 │   ├── application_record.csv                    <- the dataset with profile information (without the target variable).
 │   ├── credit_records.csv                        <- the dataset with account credit records (used to derive the target variable).
-│   ├── test.csv                                  <- the test data (with target variable).
-│   ├── train.csv                                 <- the train data (with target variable).
-│
-│
-├── pandas_profile_file
-│   ├── credit_pred_profile.html                  <- exported panda profile html file.
-│
-│
-├── .gitignore                                    <- used to ignore certain folder and files that won't be commit to git.
-│
-│
-├── Credit_card_approval_prediction.ipynb         <- main python notebook where all the analysis and modeling are done.
 │
 │
 ├── LICENSE                                       <- license file.
 │
-│
-├── cc_approval_pred.py                           <- file with the model and streamlit component for rendering the interface.
-│
-│
+|
 ├── README.md                                     <- this readme file.
 
 ```
